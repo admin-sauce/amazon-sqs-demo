@@ -1,0 +1,10 @@
+{
+  "QueueName": "YourQueueName",
+  "Attributes": {
+    "DelaySeconds": "0",
+    "MessageRetentionPeriod": "345600",
+    "VisibilityTimeout": "60",
+    "MaximumMessageSize": "262144",
+    "ReceiveMessageWaitTimeSeconds": "0"
+  }
+}
