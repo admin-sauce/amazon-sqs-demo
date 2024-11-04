@@ -1,0 +1,11 @@
+{
+  "subject": "Invitation to My Blog!",
+  "message": {
+    "title": "Explore Cloud Computing!",
+    "url": "https://linkedin/mr-morale",
+    "description": "Discover insights on AWS services and more in my latest post.",
+    "cta": "Click here to read more and subscribe!"
+  },
+  "sender": "mr-morale",
+  "timestamp": "2024-11-01T12:00:00Z"
+}
